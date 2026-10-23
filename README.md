@@ -1,5 +1,7 @@
-# Music-Mood-Recommendation-System
+# Music Mood Recommendation System
+
 A lightweight music recommendation system that suggests songs based on user's current mood using sentiment analysis and content-based filtering.
+
 ## Features
 
 - 🎵 Mood-based song recommendations (Happy, Sad, Energetic, Calm)
@@ -177,4 +179,7 @@ This project is for educational purposes.
 ## Contact
 
 For questions or issues, please refer to the project documentation or contact the project author.
+
+
+
 
